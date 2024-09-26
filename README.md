@@ -1,1 +1,1 @@
-<ung src = "sscode.png" >
+<img src = "sscode.png" >
